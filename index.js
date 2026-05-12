@@ -41,7 +41,6 @@ const client = new Client({
 //  ROLE / CHANNEL IDs
 // ══════════════════════════════════════════════════════════════
 const CEO_ROLE_ID             = process.env.CEO_ROLE_ID   || "1490084094749573151";
-const OWNER_ROLE_ID           = process.env.OWNER_ROLE_ID || "1490084247682285699";
 const SECURITY_LOG_CHANNEL_ID = process.env.SECURITY_LOG  || "1502328608805486765";
 
 const SERVER_NAME          = "Glorious Shop";
